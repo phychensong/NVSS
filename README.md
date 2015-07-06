@@ -1,2 +1,3 @@
 # NVSS
-NVSS mask
+NVSS mask NVSS65
+Nside 32
